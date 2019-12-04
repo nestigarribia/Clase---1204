@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: right;
+}
+
+.item {
+    background-color: cadetblue;
+    color: white;
+    width: 250px;
+    height: 50px;
+    text-align: right;
+}
